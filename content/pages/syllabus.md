@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 08615bc2-6fc5-9c32-1cef-7d62c79ec1b6
 ---
@@ -28,7 +30,7 @@ This course will focus on various aspects of mirror symmetry. It is aimed at stu
     
 4.  Beyond the Calabi-Yau case: Landau-Ginzburg models and mirror symmetry for Fanos
     
-    Matrix factorizations; admissible Lagrangians; examples (An singularities; **CP**1, **CP**2); the superpotential as a Floer theoretic obstruction; the case of toric varieties.
+    Matrix factorizations; admissible Lagrangians; examples (A{{< sub "n" >}} singularities; **CP**{{< sup "1" >}}, **CP**{{< sup "2" >}}); the superpotential as a Floer theoretic obstruction; the case of toric varieties.
     
 
 Calendar
@@ -88,7 +90,7 @@ Pseudoholomorphic curves, compactness, Gromov-Witten invariants
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Quantum cohomology and Yukawa coupling on H1,1; Kähler moduli space
+Quantum cohomology and Yukawa coupling on H{{< sup "1,1" >}}; Kähler moduli space
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -259,7 +261,7 @@ SYZ continued; examples: elliptic curves, K3 surfaces
 24
 {{< tdclose >}}
 {{< tdopen >}}
-SYZ from toric degenerations (K3 case); Landau-Ginzburg models, superpotentials; example: the mirror of CP1
+SYZ from toric degenerations (K3 case); Landau-Ginzburg models, superpotentials; example: the mirror of CP{{< sup "1" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -268,7 +270,7 @@ SYZ from toric degenerations (K3 case); Landau-Ginzburg models, superpotentials;
 25
 {{< tdclose >}}
 {{< tdopen >}}
-Homological mirror symmetry for CP1: matrix factorizations, admissible Lagrangians, etc.
+Homological mirror symmetry for CP{{< sup "1" >}}: matrix factorizations, admissible Lagrangians, etc.
 {{< tdclose >}}
 
 {{< trclose >}}

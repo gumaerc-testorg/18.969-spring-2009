@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: c6e1a78b-e183-fe56-ee54-b520bfdef119
 ---
@@ -75,7 +78,7 @@ Pseudoholomorphic curves, compactness, Gromov-Witten invariants
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Quantum cohomology and Yukawa coupling on H1,1; Kähler moduli space
+Quantum cohomology and Yukawa coupling on H{{< sup "1,1" >}}; Kähler moduli space
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/mit18_969s09_lec05))
@@ -303,7 +306,7 @@ SYZ continued; examples: elliptic curves, K3 surfaces
 24
 {{< tdclose >}}
 {{< tdopen >}}
-SYZ from toric degenerations (K3 case); Landau-Ginzburg models, superpotentials; example: the mirror of CP1
+SYZ from toric degenerations (K3 case); Landau-Ginzburg models, superpotentials; example: the mirror of CP{{< sup "1" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/mit18_969s09_lec24))
@@ -315,7 +318,7 @@ SYZ from toric degenerations (K3 case); Landau-Ginzburg models, superpotentials;
 25
 {{< tdclose >}}
 {{< tdopen >}}
-Homological mirror symmetry for CP1: matrix factorizations, admissible Lagrangians, etc.
+Homological mirror symmetry for CP{{< sup "1" >}}: matrix factorizations, admissible Lagrangians, etc.
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/mit18_969s09_lec25))
