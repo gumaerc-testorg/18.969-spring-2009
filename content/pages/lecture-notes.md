@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics along with notes
+  from each lecture session.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -33,7 +35,7 @@ LECTURE NOTES
 The origins of mirror symmetry; overview of the course
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_969s09_lec01))
+({{% resource_link fb23c78d-4db2-a691-6dca-98a47f6b4b7c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +47,7 @@ The origins of mirror symmetry; overview of the course
 Deformations of complex structures
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_969s09_lec02))
+({{% resource_link 42040c1f-577d-7178-b66e-4d6e3fbd12f4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -57,7 +59,7 @@ Deformations of complex structures
 Deformations continued, Hodge theory; pseudoholomorphic curves, transversality
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_969s09_lec03))
+({{% resource_link 12320123-95d3-0aca-2bf9-8aacbb7ad036 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +71,7 @@ Deformations continued, Hodge theory; pseudoholomorphic curves, transversality
 Pseudoholomorphic curves, compactness, Gromov-Witten invariants
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_969s09_lec04))
+({{% resource_link 41f31843-1154-e73d-835e-d92bc5c40ab4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +83,7 @@ Pseudoholomorphic curves, compactness, Gromov-Witten invariants
 Quantum cohomology and Yukawa coupling on H{{< sup "1,1" >}}; Kähler moduli space
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_969s09_lec05))
+({{% resource_link bf63a502-f174-49aa-95c1-d677c8fbe3a7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -93,7 +95,7 @@ Quantum cohomology and Yukawa coupling on H{{< sup "1,1" >}}; Kähler moduli spa
 The quintic 3-fold and its mirror; complex degenerations and monodromy
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_969s09_lec06))
+({{% resource_link 11f2fffa-337f-9a6e-c301-c32b1ddb3d98 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +107,7 @@ The quintic 3-fold and its mirror; complex degenerations and monodromy
 Monodromy weight filtration, large complex structure limit, canonical coordinates
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_969s09_lec07))
+({{% resource_link 8cb8eb4c-8ac7-4bee-6342-339193f941eb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -117,7 +119,7 @@ Monodromy weight filtration, large complex structure limit, canonical coordinate
 Canonical coordinates and mirror symmetry; the holomorphic volume form on the mirror quintic and its periods
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_969s09_lec08))
+({{% resource_link 3ca5f3b9-037a-e948-6ab7-1549f1f679f1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -129,7 +131,7 @@ Canonical coordinates and mirror symmetry; the holomorphic volume form on the mi
 Picard-Fuchs equation and canonical coordinates for the quintic mirror family
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_969s09_lec09))
+({{% resource_link 33dfafe4-343f-b216-e890-aa96617797e3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -141,7 +143,7 @@ Picard-Fuchs equation and canonical coordinates for the quintic mirror family
 Yukawa couplings and numbers of rational curves on the quintic; introduction to homological mirror symmetry
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_969s09_lec10))
+({{% resource_link 42bc2e16-1167-8606-81a5-41acc4cfc821 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -153,7 +155,7 @@ Yukawa couplings and numbers of rational curves on the quintic; introduction to 
 Lagrangian Floer homology
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_969s09_lec11))
+({{% resource_link a7678924-96f0-85ad-7cb2-9549c877cef1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -165,7 +167,7 @@ Lagrangian Floer homology
 Lagrangian Floer theory: Hamiltonian isotopy invariance, grading, examples
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_969s09_lec12))
+({{% resource_link 4e5bb640-b3bb-cc63-4518-cc4a7818ca09 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -177,7 +179,7 @@ Lagrangian Floer theory: Hamiltonian isotopy invariance, grading, examples
 Lagrangian Floer theory: product structures, A\_∞ equations
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_969s09_lec13))
+({{% resource_link 98d4986c-52ee-1062-5162-86821369569e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -189,7 +191,7 @@ Lagrangian Floer theory: product structures, A\_∞ equations
 Fukaya categories: first version; Floer homology twisted by flat bundles; defining CF(L,L)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_969s09_lec14))
+({{% resource_link b3b541e8-1880-fc44-3a93-2faf6159f085 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -201,7 +203,7 @@ Fukaya categories: first version; Floer homology twisted by flat bundles; defini
 Defining CF(L,L) continued; discs and obstruction. Coherent sheaves, examples, introduction to ext.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_969s09_lec15))
+({{% resource_link b376e756-0191-8026-a230-9b9a0915f91f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -213,7 +215,7 @@ Defining CF(L,L) continued; discs and obstruction. Coherent sheaves, examples, i
 Ext groups; motivation for the derived category
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_969s09_lec16))
+({{% resource_link 8c2e1e87-6368-4128-6607-1e6699be2ee4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -225,7 +227,7 @@ Ext groups; motivation for the derived category
 The derived category; exact triangles; homs and exts.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_969s09_lec17))
+({{% resource_link 6c74d186-0621-bc92-f2fe-cf2b3892f66f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -237,7 +239,7 @@ The derived category; exact triangles; homs and exts.
 Twisted complexes and the derived Fukaya category; Dehn twists, connected sums and exact triangles
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_969s09_lec18))
+({{% resource_link 61111f69-6db9-7ee7-a1bc-449ae59529c4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -249,7 +251,7 @@ Twisted complexes and the derived Fukaya category; Dehn twists, connected sums a
 Homological mirror symmetry: the elliptic curve; theta functions and Floer products
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_969s09_lec19))
+({{% resource_link b9f472b6-91ea-5f19-ffda-45703f450744 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -261,7 +263,7 @@ Homological mirror symmetry: the elliptic curve; theta functions and Floer produ
 HMS for the elliptic curve: Massey products; motivation for the SYZ conjecture
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_969s09_lec20))
+({{% resource_link 623b88c9-260c-f000-7149-628e27a6eb36 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -273,7 +275,7 @@ HMS for the elliptic curve: Massey products; motivation for the SYZ conjecture
 The SYZ conjecture; special Lagrangian submanifolds and their deformations
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_969s09_lec21))
+({{% resource_link 03454e68-6431-8555-98c6-44d90cfbd0eb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -285,7 +287,7 @@ The SYZ conjecture; special Lagrangian submanifolds and their deformations
 The moduli space of special Lagrangians: affine structures; mirror complex structure and Kähler form
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_969s09_lec22))
+({{% resource_link 4d011434-e829-75ab-95ba-739a63e2eafe "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -297,7 +299,7 @@ The moduli space of special Lagrangians: affine structures; mirror complex struc
 SYZ continued; examples: elliptic curves, K3 surfaces
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_969s09_lec23))
+({{% resource_link 0adb5379-834c-2683-dd40-bec04cd141f9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -309,7 +311,7 @@ SYZ continued; examples: elliptic curves, K3 surfaces
 SYZ from toric degenerations (K3 case); Landau-Ginzburg models, superpotentials; example: the mirror of CP{{< sup "1" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_969s09_lec24))
+({{% resource_link e21789ff-bef4-299b-fdbb-27e96ce15cfe "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -321,7 +323,7 @@ SYZ from toric degenerations (K3 case); Landau-Ginzburg models, superpotentials;
 Homological mirror symmetry for CP{{< sup "1" >}}: matrix factorizations, admissible Lagrangians, etc.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_969s09_lec25))
+({{% resource_link dfa2ca8c-1791-b87b-2934-5322f3851424 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
