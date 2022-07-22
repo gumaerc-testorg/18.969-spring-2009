@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides a list of books and papers on mirror symmetry.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 2f75a9be-b76c-63e4-7d25-b285875960cd
 ---
